@@ -1,0 +1,13 @@
+<<<<<<< HEAD
+pandas
+torch
+matplotlib
+numpy
+scikit-learn
+=======
+pandas
+torch
+matplotlib
+numpy
+scikit-learn
+>>>>>>> 9075d34 (LSTM Model)
